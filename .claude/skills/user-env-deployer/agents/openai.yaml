@@ -1,0 +1,3 @@
+interface:
+  display_name: "User Env Deployer"
+  short_description: "Deploy or align local shell environments with zsh, oh-my-zsh, tmux, and portable dotfiles"
