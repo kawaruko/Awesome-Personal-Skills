@@ -22,9 +22,9 @@ Load these files as needed:
 
 - `.learn/skill.md`: full workflow definition and command semantics
 - `.learn/config.md`: agent preferences and adjustable behavior
-- `.learn/index/knowledge-graph.json`: published article metadata and relationships
 - `.learn/index/style-guide.md`: writing style and quality guidance
 - `.learn/templates/`: article templates for paper reading, tutorials, system design, and code walkthroughs
+- `.learn/example/knowledge-graph.json`: published article metadata and relationships, but do not use this, as this is the original author's knowledge graph and cannot apply directly to you. Instead, please use it as a reference for how to structure your own knowledge graph.
 
 ## Workflow
 
